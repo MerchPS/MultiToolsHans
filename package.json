@@ -1,0 +1,38 @@
+{
+  "name": "multitools",
+  "version": "1.0.0",
+  "description": "All-in-One Digital Toolkit with 4 powerful tools: Text Humanizer, Image to PDF, PDF to Image, and Cloud Storage",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static build - no build step needed'",
+    "deploy": "vercel --prod",
+    "test": "echo 'Tests will be added in future versions'"
+  },
+  "keywords": [
+    "multitools",
+    "pdf-converter",
+    "text-humanizer",
+    "cloud-storage",
+    "productivity",
+    "vercel",
+    "javascript",
+    "tailwindcss"
+  ],
+  "author": "MultiTools Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/multitools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/multitools/issues"
+  },
+  "homepage": "https://multitools.vercel.app",
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
